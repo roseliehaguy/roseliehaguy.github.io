@@ -1,0 +1,40 @@
+h1{
+	color: darkblue;
+	font-size: x-large;
+	text-align: center;
+
+}
+h2{
+	font-size: larger;
+	color: #1b4965;
+}
+h3{
+	color: royalblue;
+	text-align: center;
+	font-size: x-large;
+}
+	.container{
+		display: flex;
+	}
+	.col1{
+		width: 50%;
+		
+	}
+	.col2{
+		width: 50%;
+	}
+img	{ display: block; 
+margin-right: auto;
+margin-left: auto;
+}
+
+#avatar{
+	box-shadow: 4px 4px 6px #90caf9;
+
+}
+body{
+	background: #e2eafc;
+	margin: 0px;
+	padding: 0px;
+}
+
